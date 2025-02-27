@@ -36,6 +36,7 @@ i2cdetect -y 1
 ```
 you *should* see an output that broadly looks like this:
 ![image](https://github.com/user-attachments/assets/eb7b5639-66dc-4d5c-a56d-060d3f3edad0)
+
 with a filled value at 48 (*LT150*) and 77 (*BME280*). You can unplug these and run the command again to make sure they are correctly showing up.
 
 ### Ensure time is correct - *must be connected to internet*
