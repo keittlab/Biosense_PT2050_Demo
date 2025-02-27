@@ -5,7 +5,7 @@ Setup for a quick demo we used for the PT2050 workshop on Feb 27, 2025. This is 
 - Raspberry Pi 4 Model B
 - Qwicc PiHat
 - Vegetronix LT150 Light sensor
-    -
+    -asdfasd 
 
 
 First image the OS onto a SD card for use in a PI model 4. A
